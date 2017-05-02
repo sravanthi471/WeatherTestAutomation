@@ -1,0 +1,3 @@
+Revert ":confetti_ball: Added .gitattributes & .gitignore files"
+
+This reverts commit 8f2ae542c4d5540aa26baafaeec8e328fda633fd.
