@@ -1,5 +1,5 @@
 Feature: Get weather 
-As a weather.com user I want to get weather based on city provided
+As a weather.com user I want to get weather based on city provided.
 
   Scenario: get weather and assert
     Given I want to get weather report 
